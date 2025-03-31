@@ -19,10 +19,13 @@
 ---
 
 📊 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeArcadia-fastest&show_icons=true&theme=radical)
-
-📌 **Top Repositories:**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeArcadia-fastest&layout=compact&theme=radical)](https://github.com/CodeArcadia-fastest)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeArcadia-fastest&show_icons=true&theme=radical"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeArcadia-fastest&theme=radical"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeArcadia-fastest&layout=compact&theme=radical"/>
+</p>
 
 ---
 
@@ -39,7 +42,6 @@
 🚀 **Some Cool Animations for My Profile:**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeArcadia-fastest&color=brightgreen"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeArcadia-fastest&theme=radical"/>
 </p>
 
 Thanks for visiting my profile! 😎
