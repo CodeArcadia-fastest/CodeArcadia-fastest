@@ -1,0 +1,27 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Запускается каждый день в полночь
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate the snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: CodeArcadia-fastest
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push the output
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Generate snake animation"
+          branch: output
