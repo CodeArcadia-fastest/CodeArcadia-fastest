@@ -46,5 +46,9 @@
 
 ---
 
+### 🐍 Watch my contribution snake:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodeArcadia-fastest/main/github-contribution-grid-snake.svg" />
+</p>
 
 Thanks for visiting my profile! 😎
