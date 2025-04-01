@@ -18,7 +18,7 @@
 
 ---
 
-📊 **GitHub Stats:**
+💊 **GitHub Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeArcadia-fastest&show_icons=true&theme=radical"/>
   <br>
@@ -42,6 +42,13 @@
 🚀 **Some Cool Animations for My Profile:**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeArcadia-fastest&color=brightgreen"/>
+</p>
+
+---
+
+🐍 **Watch my contribution snake:**
+<p align="center">
+  <img src="https://github.com/CodeArcadia-fastest/CodeArcadia-fastest/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 Thanks for visiting my profile! 😎
