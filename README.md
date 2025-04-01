@@ -39,6 +39,11 @@
 
 ---
 
+### 🐍 Watch my contribution snake:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodeArcadia-fastest/main/github-contribution-grid-snake.svg" />
+</p>
+
 🚀 **Some Cool Animations for My Profile:**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeArcadia-fastest&color=brightgreen"/>
@@ -46,9 +51,5 @@
 
 ---
 
-### 🐍 Watch my contribution snake:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodeArcadia-fastest/main/github-contribution-grid-snake.svg" />
-</p>
 
 Thanks for visiting my profile! 😎
