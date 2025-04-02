@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -39,10 +41,6 @@
 
 ---
 
-### 🐍 Watch my contribution snake:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodeArcadia-fastest/main/github-contribution-grid-snake.svg" />
-</p>
 
 🚀 **Some Cool Animations for My Profile:**
 <p align="center">
