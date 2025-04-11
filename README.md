@@ -23,11 +23,9 @@
 💊 **GitHub Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeArcadia-fastest&show_icons=true&theme=radical"/>
-  <br>
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=CodeArcadia-fastest&theme=radical)
-  <br>
-  <br>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=CodeArcadia-fastest&theme=radical"/>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeArcadia-fastest&layout=compact&theme=radical"/>
 </p>
 
