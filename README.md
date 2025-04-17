@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeArcadia-fastest&show_icons=true&theme=radical"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeArcadia-fastest&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeArcadia-fastest" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeArcadia-fastest&layout=compact&theme=radical"/>
 </p>
