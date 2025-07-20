@@ -34,6 +34,8 @@
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Malware%20Analysis-FF0000?style=for-the-badge&logo=virustotal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sandbox%20Testing-555555?style=for-the-badge&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ---
