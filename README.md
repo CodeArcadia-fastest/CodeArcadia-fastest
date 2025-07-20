@@ -31,6 +31,9 @@
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-5E5E5E?style=for-the-badge&logo=metasploit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=hack-the-box&logoColor=green"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Malware%20Analysis-FF0000?style=for-the-badge&logo=virustotal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sandbox%20Testing-555555?style=for-the-badge&logo=proxmox&logoColor=white"/>
 </p>
 
 ---
