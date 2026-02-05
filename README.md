@@ -45,7 +45,8 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeArcadia-fastest&show_icons=true&theme=radical" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=CodeArcadia-fastest&theme=radical" />
+  
+  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=CodeArcadia-fastest&theme=radical)](https://git.io/streak-stats)
   <br><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeArcadia-fastest&layout=compact&theme=radical" />
 </p>
