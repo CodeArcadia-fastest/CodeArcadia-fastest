@@ -48,12 +48,13 @@
 
 💊 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeArcadia-fastest&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeArcadia-fastest&show_icons=true&theme=radical" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=CodeArcadia-fastest&theme=radical" />
   <br><br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeArcadia-fastest&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeArcadia-fastest&layout=compact&theme=radical" />
 </p>
+
 
 
 
