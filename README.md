@@ -48,17 +48,12 @@
 
 💊 **GitHub Stats:**
 <p align="center">
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeArcadia-fastest&show_icons=true&theme=radical&cache_seconds=1800)
-
 <br><br>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=CodeArcadia-fastest&theme=radical)
 
 <br><br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeArcadia-fastest&layout=compact&theme=radical)
-
 </p>
 
 ---
