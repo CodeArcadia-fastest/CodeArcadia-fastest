@@ -1,3 +1,8 @@
+<a href="https://upload.wikimedia.org/wikipedia/commons/e/e6/Khiva-%28Uzbekistan%29_banner.jpg">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Khiva-%28Uzbekistan%29_banner.jpg" alt="Khiva Banner" width="100%">
+</a>
+<br><br>
+
 ### Hi, I'm a Middle Web Developer! 👋
 
 🚀 **Always Learning and Growing!** I am constantly improving my skills, exploring new technologies, and working on exciting projects. My passion is creating beautiful and functional web applications. 
