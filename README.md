@@ -43,8 +43,9 @@
 <p align="center">
   <a href="https://t.me://@hb_doc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Xasko/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://robocontest.uz/profile/codearcadia"><img src="https://img.shields.io/badge/Robocontest.uz-0088CC?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://career.habr.com/xasko"><img src="https://img.shields.io/badge/Harb_Cariare-4B5320?style=for-the-badge&logo=shield&logoColor=white"/></a>
   <br/> <br/>
   <img src="https://komarev.com/ghpvc/?username=CodeArcadia-fastest&color=brightgreen"/>
 </p>
