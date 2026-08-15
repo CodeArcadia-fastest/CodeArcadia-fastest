@@ -37,22 +37,6 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 </p>
 
-
----
-
-💊 **GitHub Stats:**
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeArcadia-fastest&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeArcadia-fastest&layout=compact&theme=radical&v=2" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=CodeArcadia-fastest&theme=radical" />
-</p>
-
-
-
-
 ---
 
 🌍 **Connect with Me:**  
